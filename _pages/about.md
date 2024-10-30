@@ -1,16 +1,8 @@
 ---
 permalink: /
-title: "Welcome to Sohel Ahmed" personal websites"
+title: "Welcome to Sohel Ahmed personal website"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
-
-Thanks for visiting my website! I am an Expert in Data Science
-
-Sohel Ahmed personal website
-======
-
-Take a look at the links above to learn more about me!
-
