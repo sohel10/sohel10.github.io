@@ -11,7 +11,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0304380022001648?v
 ---
 
 This paper investigates the outbreak potential of Chronic Wasting Disease (CWD) in white-tailed deer, focusing on how environmental contamination with infectious prions impacts disease spread. 
-Using a Susceptible-Latent-Exposed-Infective (SLEI) model, the study finds that CWD can persist in contaminated habitats even if direct transmission between deer is limited. Key findings include:
+Using a Susceptible-Latent-Exposed-Infective (SLEI) model, the study finds that CWD can persist in contaminated habitats even if direct transmission between deer is limited. Key findings include
 Outbreak potential increases when transmission is linked to environmental contamination.
 CWD spread cannot rely solely on density-dependent transmission; it requires frequency-dependent or a mix of density- and frequency-dependent dynamics.
 This model highlights thresholds that determine outbreak risk, providing guidance for wildlife managers on where to focus surveillance efforts.
