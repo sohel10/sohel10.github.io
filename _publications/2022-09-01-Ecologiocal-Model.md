@@ -6,7 +6,7 @@ permalink: /publication/2022-09-01
 
 date: 2022-09-01
 venue: 'Ecological Modelling'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0304380022001648'
+paperurl: 'https://doi.org/10.1016/j.ecolmodel.2022.110054'
 
 ---
 
