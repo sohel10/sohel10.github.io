@@ -1,13 +1,18 @@
 ---
-title: "Paper Title Number 4"
+title: "Testing Machine Learning Code using Polyhedral Region"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2020-11-02
+
+date: 2020-11-02
+venue: '28th ACM Joint European Software Engineering Conference and Symposium
+on the Foundations of Software Engineering (ESEC/FSE ’20)'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3368089.3417043'
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The paper "Testing Machine Learning Code using Polyhedral Region" introduces a novel approach for testing machine learning (ML) code by leveraging the concept of a polyhedral region, a theoretical bounding that ensures consistency in output for inputs within a defined region. This approach detects bugs by identifying instances where the ML system produces inconsistent results for inputs within the same polyhedral region, which would indicate an implementation error.
+
+The authors apply this testing method specifically to the lasso algorithm, a popular ML technique for sparse regression and feature selection, and validate its effectiveness through mutation testing. Mutation testing involves introducing small changes (mutants) in the code to check if the testing method can detect these introduced bugs. The study shows that the polyhedral-based testing method successfully detects 98% of the mutants in the lasso code, making it an effective tool for identifying inconsistencies in ML code.
+
+The results suggest that this polyhedral approach can be widely applicable to various ML algorithms that satisfy the polyhedral condition, offering a rigorous and efficient way to test ML code for reliability. The authors conclude that this method provides a foundational technique for ML code testing and could lead to more comprehensive ML testing frameworks in the future.
