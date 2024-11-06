@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2018-04-05-paper
 
 date: 2018-04-05
-venue: 'Journal 1'
+venue: 'Sustainability'
 paperurl: 'https://www.mdpi.com/2071-1050/10/4/1106'
 
 ---
