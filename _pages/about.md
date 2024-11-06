@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Sohel Ahmed personal website"
+title: "ABout me"
 author_profile: true
 redirect_from:
   - /about/
