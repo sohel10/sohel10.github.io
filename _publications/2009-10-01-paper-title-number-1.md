@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2017-07-21
 venue: '2017 IEEE Canada International Humanitarian Technology Conference (IHTC)'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8058197'
 
 ---
