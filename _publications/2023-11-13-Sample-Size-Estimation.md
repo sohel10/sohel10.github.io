@@ -14,9 +14,6 @@ This paper presents a Bayesian modeling approach to estimate disease prevalence 
 Traditional methods for calculating sample sizes assume independent disease transmission among individuals, which isn’t realistic in clustered wildlife populations
 where disease spread often occurs within family groups or shared habitats. This new approach takes into account the natural clustering and correlation in disease
 status among individuals, which can impact sample size needs.
-
-Key findings include:
-
 High within-cluster correlations can reduce sample size requirements, as sampling one individual in a correlated group may provide information on the rest.
 However, if sampling focuses too much on specific small subsets within a population, high correlations can actually inflate sample size needs, as sampling 
 multiple correlated individuals yields little additional information.
