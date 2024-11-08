@@ -10,7 +10,6 @@ redirect_from:
 Achievements
 ------
 * Lead Artificial Intelligence Automation in Protfilio Programming Managmenet 
-* Lead Scientist Compliant Cloud Computing Infrastructure for Reproducibility with Health Data
 * Lead co-ordinator for different Projects as a researchers on Machine Learning and compute framework. 
 
 Education
@@ -38,7 +37,6 @@ Curriculum Vitae
 * [Click here](https://sohel10.github.io/files/sohel_CV_10_25.pdf)
 
 
-#Research Satement 
 
 
 
