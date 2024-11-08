@@ -35,7 +35,7 @@ In the News
   
 Curriculum Vitae
 ------
-* [Click here](https://github.com/sohel10/sohel10.github.io/blob/master/files/sohel_CV_10_25.pdf)
+* [Click here](https://sohel10.github.io/files/sohel_CV_10_25.pdf)
 
 
 #Research Satement 
