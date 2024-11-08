@@ -35,12 +35,11 @@ In the News
   
 Curriculum Vitae
 ------
-* [Click here](http://adibzaman.github.io/files/sohel_CV_10_25.pdf)
+* [Click here](https://github.com/sohel10/sohel10.github.io/blob/master/files/sohel_CV_10_25.pdf)
 
 
 #Research Satement 
-------
-#* [Click here](http://adibzaman.github.io/files/Research_Statement_5_Year_Plan.pdf)
+
 
 
 
