@@ -1,64 +1,46 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+Achievements
+------
+* Lead Artificial Intelligence Automation in Protfilio Programming Managmenet 
+* Lead Scientist Compliant Cloud Computing Infrastructure for Reproducibility with Health Data
+* Lead co-ordinator for different Projects as a researchers on Machine Learning and compute framework. 
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+* Ph.D in Information Science and Technology, Osaka University, 2018
+* M.S. in Statisitcs University of Chittagong, 2012
+* B.S. in Statistics University of Chittagong, 2011
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+------
+* 2023-Present:Rseearch Scientist, Texas A&M Transportation Institute, Astin, Texas, USA
+* 2021-2023:Postdoctoral Researcher, Cornell University, New York, USA 
+* 2019-2021:Rsearcher, National Instittute of Informatics, Tokyo, Japan
+* 2015--2018: Teaching Assistant, Osaka University, Osaka, Japan
+* 2013--2015: Data Scientist, Hi-Van Bangladesh Co., Ltd, Dhaka, Bangladesh.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+In the News
+------
+* [Predicting chronic wasting disease in counties could prevent spread](https://news.cornell.edu/stories/2024/06/predicting-chronic-wasting-disease-counties-could-prevent-spread)
+* [Forecasting Chronic Wasting Disease May Curb Spread](https://greatlakesecho.org/2024/08/23/michigan-is-part-of-multi-state-effort-to-track-chronic-wasting-disease/)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Curriculum Vitae
+------
+* [Click here](http://adibzaman.github.io/files/sohel_CV_10_25.pdf)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+#Research Satement 
+------
+#* [Click here](http://adibzaman.github.io/files/Research_Statement_5_Year_Plan.pdf)
+
+
+
