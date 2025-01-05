@@ -1,3 +1,36 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script src="{{ base_path }}/assets/js/filter.js"></script>
+<script src="https://www.gstatic.com/charts/loader.js"></script>
+<script src="{{ base_path }}/assets/js/pie.js"></script>
+<script src="{{ base_path }}/assets/js/pie2.js"></script>
+<script src="{{ base_path }}/assets/js/hist.js"></script>
+<script src="{{ base_path }}/assets/js/hist_talk.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<!-- Add USA-specific map or data visualization -->
+<script src="https://d3js.org/d3.v6.min.js"></script>
+<script src="https://unpkg.com/us-atlas@3/states-10m.json"></script>
+<div id="us-map"></div>
+<script>
+    // Example: Render US Map
+    const width = 960;
+    const height = 600;
+    const svg = d3.select("#us-map")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+    d3.json("https://unpkg.com/us-atlas@3/states-10m.json").then(us => {
+        const path = d3.geoPath();
+        svg.append("g")
+            .selectAll("path")
+            .data(topojson.feature(us, us.objects.states).features)
+            .join("path")
+            .attr("fill", "#ddd")
+            .attr("stroke", "#333")
+            .attr("d", path);
+    });
+</script>
 
 {% include analytics.html %}
+{% include /comments-providers/scripts.html %}
