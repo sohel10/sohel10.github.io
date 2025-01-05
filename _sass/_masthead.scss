@@ -3,15 +3,18 @@
    ========================================================================== */
 
 .masthead {
-  // position: relative;
-  position: sticky;
+  position: fixed;
+  background: white;
   border-bottom: 1px solid $border-color;
+  height: $masthead-height;
+  top: 0;
+  width: 100%;
+
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
-  background-color: #041527;
 
   &__inner-wrap {
     @include container;
@@ -34,7 +37,7 @@
 }
 
 .masthead__menu {
-  background-color: #041527;
+
   ul {
     margin: 0;
     padding: 0;
@@ -44,10 +47,9 @@
 }
 
 .masthead__menu-item {
-  background-color: #041527;
   display: block;
   list-style-type: none;
-  // white-space: nowrap;
+  white-space: nowrap;
 
   &--lg {
     padding-right: 2em;
